@@ -5,6 +5,6 @@ services:
     ports:
       - 8000:8080
   fontend:
-    image: webwebweb5/lab12
+    image: webwebweb5/lab12_web
     ports:
       - 8001:80
